@@ -44,6 +44,16 @@
     padding: 80px;
     
 }
+/* media query */
 
+@media only screen and (min-width:325px) and (max-width:1024px){
+    .card-detail{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        overflow: hidden;
+    }
+
+}
 
 

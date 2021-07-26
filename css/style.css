@@ -20,6 +20,10 @@
 .game-h2-bg{
     background-color: gray;
 }
+
+.game-btn-outline-color{
+    background-color: cornflowerblue;
+}
 .game-btn-buy{
     background-color: gray;
 }
